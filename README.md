@@ -15,6 +15,8 @@ How to start your participation in [Visual Doom AI Competition 2018 - Singleplay
 * [TL;DR Creating a submission](#create_sub_tldr)  
 * [Creating a submission](#create_sub)
 
+![vizdoom_deadly_corridor](https://j.gifs.com/7LKX7r.gif)
+
 ### <a name="local_build"></a> Local build
 
 Instructions for building and testing the image locally.   
