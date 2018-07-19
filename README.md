@@ -15,8 +15,6 @@ How to start your participation in [Visual Doom AI Competition 2018 - Singleplay
 * [TL;DR Creating a submission](#create_sub_tldr)  
 * [Creating a submission](#create_sub)
 
-[![youtube_video](http://img.youtube.com/vi/TY7w61rNLHE/0.jpg)](https://www.youtube.com/watch?v=TY7w61rNLHE 'vizdoom2018-crowdai')  
-
 ### <a name="local_build"></a> Local build
 
 Instructions for building and testing the image locally.   
